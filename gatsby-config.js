@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'CovHack2020',
+    title: 'CovHack2021',
     description: `CovHackSoc's Second Annual Hackathon`,
     url: 'https://covhack.org',
   },

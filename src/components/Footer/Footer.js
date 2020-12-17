@@ -16,7 +16,7 @@ export const Footer = () => (
           CovHackSoc
         </a>{' '}
         — Edit this site on{' '}
-        <a href="https://github.com/CovHack/CovHack2020" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/CovHack/CovHack2021" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
       </div>

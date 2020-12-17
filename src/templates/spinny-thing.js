@@ -4,6 +4,6 @@ import '../scss/spinny.scss'
 
 export default () => (
   <div className="spinny-thing">
-    <a href="http://www.covhack.org">CovHack2020</a>
+    <a href="http://www.covhack.org">CovHack2021</a>
   </div>
 )

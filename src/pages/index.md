@@ -1,8 +1,8 @@
 ---
 path: '/'
 templateKey: index-page
-title: CovHack2020
-tagline: Welcome to CovHack2020!
+title: CovHack2021
+tagline: Welcome to CovHack2021!
 ---
 
 ### CovHack is a free 24hr student hackathon, organised by Coventry University’s Hackathon Society

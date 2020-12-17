@@ -1,5 +1,5 @@
 {
-  "name": "covhack2020",
+  "name": "covhack2021",
   "private": true,
   "description": "covhack.org 2020 site",
   "version": "0.1.0",
@@ -52,6 +52,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CovHack/CovHack2020"
+    "url": "https://github.com/CovHack/CovHack2021"
   }
 }
