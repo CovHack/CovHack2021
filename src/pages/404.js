@@ -14,8 +14,8 @@ const NotFoundPage = () => (
         </h1>
         <p style={{ fontFamily: 'monospace', fontSize: '1.6em' }}>*tumbleweed*</p>
         <p>
-          if you think there's supposed to be something here, please heckle on{' '}
-          <a href="https://twitter.com/jmsve">twitter</a> or something
+          if you think there's supposed to be something here, please contact us via{' '}
+          <a href="https://twitter.com/covhack">Twitter</a> or <a href="mailto:hello@covhack.org">email</a>
         </p>
         <p>
           <Button primary to="/">
