@@ -90,7 +90,7 @@ export default function IndexPage({ data, pageContext: { font } }) {
               <div style={{ padding: '1.5em' }} className="key-points">
                 <ul>
                   <li>
-                    <Emoji value={'📅'} /> 15-21st February 2021
+                    <Emoji value={'📅'} /> 15th-21st February 2021
                   </li>
                   <li>
                     <Emoji value={'🎓'} /> Open to all students
