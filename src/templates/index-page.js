@@ -241,7 +241,6 @@ export const pageQuery = graphql`
             logo
             tier
             type
-            heightOverride
           }
         }
       }
