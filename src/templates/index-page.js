@@ -219,7 +219,6 @@ export const pageQuery = graphql`
               github
               twitter
               linkedin
-              instagram
               devpost
             }
             listOrder
