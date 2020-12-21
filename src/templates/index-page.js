@@ -13,7 +13,6 @@ import {
   FAQ,
   Team,
   Button,
-  MLHTrustBadge,
 } from '../components'
 
 export default function IndexPage({ data, pageContext: { font } }) {
@@ -152,7 +151,6 @@ export default function IndexPage({ data, pageContext: { font } }) {
         <Team team={teamData} style={{ marginBottom: '2em' }} />
       </Container>
 
-      <MLHTrustBadge color="black" year="2020" region="eu" />
     </Layout>
   )
 }
