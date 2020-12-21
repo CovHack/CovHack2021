@@ -1,16 +1,14 @@
 ---
 type: faq
-title: What should I bring?
+title: What do I need?
 listOrder: 10
 ---
 
-We highly recommend you bring the following:
+We highly recommend you have the following:
 
 * A Laptop (or your gaming rig :) )
 * A charger
-* Deodorant
-* Toothbrush + Toothpaste
-* A change of clothes
+* Food
 
 
 You can also find suggestions on [hack.athon.uk](https://hack.athon.uk/attend/bring/)
