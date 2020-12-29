@@ -1,6 +1,6 @@
-# CovHack2020
+# CovHack2021
 
-CovHack2020 Site, built with [GatsbyJS](https://www.gatsbyjs.org)
+CovHack2021 Site, built with [GatsbyJS](https://www.gatsbyjs.org)
 
 ## Development
 
