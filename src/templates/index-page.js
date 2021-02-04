@@ -108,7 +108,7 @@ export default function IndexPage({ data, pageContext: { font } }) {
           <Emoji value={'🎫'} /> Tickets
         </h2>
 
-        <tito-widget event="covhack/covhack2020"></tito-widget>
+        <tito-widget event="covhack/2021"></tito-widget>
       </Container>
 
       <Sponsors sponsors={sponsorData} className="mb-10" />
