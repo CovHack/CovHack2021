@@ -4,7 +4,7 @@ title: What's a Hackathon?
 listOrder: 1
 ---
 
-A Hackathon is a weekend long invention marathon. You work over the weekend to
+A Hackathon is a week long invention marathon. You work over the week to
 build a project (generally something to do with tech, like a website or robot).
 
 We like to think of them as pop-up maker spaces.
