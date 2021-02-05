@@ -2,6 +2,6 @@
 name: Twilio
 url: https://www.twilio.com/
 logo: /raimbow-sprimkles/twilio-logo-red.svg
-tier: starter
+tier: headline
 type: sponsor
 ---
