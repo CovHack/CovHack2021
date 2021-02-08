@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'CovHack2021',
-    description: `CovHackSoc's Second Annual Hackathon`,
+    description: `CovHackSoc's Third Annual Hackathon`,
     url: 'https://covhack.org',
   },
   plugins: [
