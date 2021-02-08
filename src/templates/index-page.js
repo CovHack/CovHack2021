@@ -117,7 +117,7 @@ export default function IndexPage({ data, pageContext: { font } }) {
         <h2 style={{ marginTop: '1.5rem' }}>
           <Emoji value={'🕒'} /> Schedule
         </h2>
-        <p>To be confirmed closer to the event.</p>
+        <p>This is subject to change, but our planned schedule is as follows:</p>
 
         <Schedule schedule={scheduleData} style={{ marginBottom: '2em' }} />
       </Container>
