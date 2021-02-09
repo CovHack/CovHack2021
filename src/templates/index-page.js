@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
 import { Container, Card, CardBody, Row, Col } from 'reactstrap'
-import { MdKeyboardArrowDown } from 'react-icons/md'
 import BackgroundImage from 'gatsby-background-image'
 
 import {
@@ -65,14 +64,9 @@ export default function IndexPage({ data, pageContext: { font } }) {
       <div className="cta-container">
         <Card className="cta shadow bg-dark" style={{ textAlign: 'center' }}>
           <CardBody>
-            <Button primary to="/2020-photos" className="button">
+            <Button primary to="https://2020.covhack.org/2020-photos" className="button">
               CovHack2020 Photos
             </Button>
-
-            {/* Should link to videos on YouTube when released */}
-            {/* <Button to="https://youtube.com/" className="button">
-              Videos
-            </Button> */}
           </CardBody>
         </Card>
       </div>
@@ -127,13 +121,11 @@ export default function IndexPage({ data, pageContext: { font } }) {
           <Emoji value={'📍'} /> How To Find Us
         </h2>
 
-        <p>
-          CovHack is being hosted online by students at Coventry University.
-        </p>
+        <p>CovHack is being hosted online by students at Coventry University.</p>
 
         <HowToFindUs howToFindUs={howToFindUsData} style={{ marginBottom: '2em' }} />
 
-      <Map />
+        <Map />
       </Container>
 
       <Container style={{ marginTop: '3em', marginBottom: '3em' }}>
@@ -151,7 +143,6 @@ export default function IndexPage({ data, pageContext: { font } }) {
 
         <Team team={teamData} style={{ marginBottom: '2em' }} />
       </Container>
-
     </Layout>
   )
 }
