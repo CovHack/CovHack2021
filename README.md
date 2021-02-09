@@ -21,7 +21,7 @@ To make code pretty you can run `yarn format`
 
 ## Production
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4efe1bf6-42af-40ed-9bf6-cbdd12833b2b/deploy-status)](https://app.netlify.com/sites/covhack2021/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fad43931-af88-4b3b-b19e-5512f9c5e62a/deploy-status)](https://app.netlify.com/sites/epic-lovelace-7922d8/deploys)
 
 Build site:
 
