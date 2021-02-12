@@ -121,7 +121,7 @@ export default function IndexPage({ data, pageContext: { font } }) {
           <Emoji value={'📍'} /> How To Find Us
         </h2>
 
-        <p>CovHack is being hosted online by students at Coventry University.</p>
+        <p>CovHack is being hosted online by students at Coventry University. You can watch us live on <a href="https://twitch.tv/covhack">Twitch</a>.</p>
 
         <HowToFindUs howToFindUs={howToFindUsData} style={{ marginBottom: '2em' }} />
 
