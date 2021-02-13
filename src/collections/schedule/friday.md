@@ -1,7 +1,7 @@
 ---
 type: schedule
 title: Friday 19th
-listOrder: 3
+listOrder: 4
 ---
 
 | Time  | Activity                                                  |

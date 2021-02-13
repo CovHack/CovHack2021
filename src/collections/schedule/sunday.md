@@ -1,7 +1,7 @@
 ---
 type: schedule
 title: Sunday 21st
-listOrder: 5
+listOrder: 6
 ---
 
 | Time  | Activity                    |
